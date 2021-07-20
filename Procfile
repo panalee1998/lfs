@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser ExamApi.ipynb
+web: source setup.sh && python PreFur.ipynb
