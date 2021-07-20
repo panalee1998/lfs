@@ -1,0 +1,2 @@
+export GRADI_SERVER_NAME=0.0.0.0
+export GRADI_SERVER_PORT="$PORT"
