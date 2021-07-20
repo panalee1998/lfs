@@ -2,4 +2,4 @@ gradio
 numpy
 requests
 setuptools==50.3.1
-tensorflow
+tensorflow==2.0.0
